@@ -1,2 +1,1 @@
-# BlogKingdom
-for blog purposes
+
